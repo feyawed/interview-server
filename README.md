@@ -1,5 +1,3 @@
-# This is a mock server built with sanic
-
 # How to run
 
 ###### First thing first.
