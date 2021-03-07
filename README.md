@@ -2,7 +2,7 @@
 
 ###### First thing first.
 Clone the repository
-`git clone <repo_url>`
+`git clone https://github.com/polyrize/interview-server.git`
 
 To run the server you have 2 option. one run the server.py file
 or you can build and run the docker container, instructions as follows
