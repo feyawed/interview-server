@@ -65,9 +65,10 @@ In both cases server will be available in `http://localhost:8000`
 | /api/poly/<object_id> | DELETE | object_id: int - Representing the object id  to delete                                                                 | `204` Empty Response |         |
 
 # PolyData
-The resource return in the above endpoint.
+The object that return from the above endpoints.
 ```json
 {
+  "object_id": 65656,
   "data": [
     {
       "key": "key1",
