@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 
 Run server.py
 ```bash
-$ pip install -r requirements.txt
+$ python server.py
 ```
 ### Using Docker
 Change to the repository directory
