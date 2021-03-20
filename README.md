@@ -36,6 +36,16 @@ docker run -p 8000:8000 interview-server
 ```
 In both cases server will be available in `http://localhost:8000`
 
+### How to test
+Change to test directory
+```bash
+$ cd interview-server\test
+```
+Run test
+```bash
+$ pytest test.py
+```
+
  # API Refrence
 
  ## Authentication
